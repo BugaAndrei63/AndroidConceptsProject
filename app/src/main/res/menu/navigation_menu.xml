@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:iconTint="#020000"
+        android:title="Home" />
+    <item
+        android:id="@+id/about"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="About" />
+    <item
+        android:id="@+id/contact"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="Contact" />
+    <item
+        android:id="@+id/camera"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="Camera" />
+</menu>
